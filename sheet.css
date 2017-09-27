@@ -3,5 +3,8 @@ h1 {
     text-decoration: underline;
     border: 1px dashed blue;
 }
+* {
+    margin: 0;
+}
 
 
